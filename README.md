@@ -17,5 +17,5 @@ More context on [stackoverflow](https://stackoverflow.com/questions/65819504/mod
 
 ### Disclaimer:
 
-My question is not "How to import sample_project.data?".
+My question is not "How to import `sample_project.data`?".
 My question is "Why `sample_project.data` does not work?".
