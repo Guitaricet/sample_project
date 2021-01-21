@@ -1,3 +1,3 @@
-import class_attention
+import sample_project
 
-print(class_attention.data)
+print(sample_project.data)
