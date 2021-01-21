@@ -5,6 +5,7 @@ git clone https://github.com/Guitaricet/sample_project
 cd sample_project
 pip install -e .
 cd ~
+python
 ```
 
 ```python
